@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+.env
+backend.zip
+*.csv
+sales.pdf
+.phpunit.result.cache
+dist/
+* - Copy*
